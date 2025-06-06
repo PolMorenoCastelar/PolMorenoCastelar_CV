@@ -1,4 +1,4 @@
-// File: /Users/polmorenocastelar/Desktop/SiteSolutions/Webs/CV_PolMorenoCastelar/curriculum-personal/PolMorenoCastelar_CV/app/page.tsx
+// File: /Users/polmorenocastelar/Desktop/SiteSolutions/Webs/CV_PolMorenoCastelar/curriculum-personal/app/page.tsx
 import * as entry from '../../../app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

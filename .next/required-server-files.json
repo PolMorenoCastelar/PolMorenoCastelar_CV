@@ -96,7 +96,7 @@
         "transform": "lodash/{{member}}"
       }
     },
-    "outputFileTracingRoot": "/Users/polmorenocastelar/Desktop/SiteSolutions/Webs/CV_PolMorenoCastelar/curriculum-personal/PolMorenoCastelar_CV",
+    "outputFileTracingRoot": "/Users/polmorenocastelar/Desktop/SiteSolutions/Webs/CV_PolMorenoCastelar/curriculum-personal",
     "experimental": {
       "allowedDevOrigins": [],
       "nodeMiddleware": false,
@@ -175,7 +175,7 @@
       "forceSwcTransforms": false,
       "largePageDataBytes": 128000,
       "turbo": {
-        "root": "/Users/polmorenocastelar/Desktop/SiteSolutions/Webs/CV_PolMorenoCastelar/curriculum-personal/PolMorenoCastelar_CV"
+        "root": "/Users/polmorenocastelar/Desktop/SiteSolutions/Webs/CV_PolMorenoCastelar/curriculum-personal"
       },
       "typedRoutes": false,
       "typedEnv": false,
@@ -281,7 +281,7 @@
     "bundlePagesRouterDependencies": false,
     "configFileName": "next.config.mjs"
   },
-  "appDir": "/Users/polmorenocastelar/Desktop/SiteSolutions/Webs/CV_PolMorenoCastelar/curriculum-personal/PolMorenoCastelar_CV",
+  "appDir": "/Users/polmorenocastelar/Desktop/SiteSolutions/Webs/CV_PolMorenoCastelar/curriculum-personal",
   "relativeAppDir": "",
   "files": [
     ".next/routes-manifest.json",
